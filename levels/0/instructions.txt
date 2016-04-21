@@ -1,0 +1,10 @@
+Level 1: Easy Life
+
+Use the arrow keys or your gamepad to move, and Space or
+Button 1 to jump on fences and obstacles.
+
+In every level you have to serve six customers by collecting the
+ingredients needed for the pizza they order.
+
+You can see the already collected ingredients in the lower part
+and the remaining time in the upper part of the side bar.
